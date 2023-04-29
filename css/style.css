@@ -62,8 +62,8 @@ body {
 }
 .text {
   position: absolute;
-  width: 80%;
-  top: 400px;
+  width: 85%;
+  top: 380px;
   left: 50%;
   transform: translateX(-50%);
   text-align: center;
@@ -74,12 +74,13 @@ body {
   left: 50%;
   transform: translateX(-50%);
   width: 60px;
-  opacity: 0.5;
+  opacity: 0.7;
 }
 .text p {
-  margin-bottom: 20px;
+  margin: 30px auto 20px;
   font-size: 18px;
   line-height: 24px;
+  font-weight: 300;
 }
 .name h3 {
   font-size: 15px;
